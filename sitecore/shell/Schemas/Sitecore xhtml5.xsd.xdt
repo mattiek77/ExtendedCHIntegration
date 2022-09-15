@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+           xmlns="http://www.w3.org/1999/xhtml" 
+           xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+
+	  <xs:element name="img" xdt:Locator="Match(name)">
+		<xs:complexType> 
+          <xs:attribute name="srcset" type="string" xdt:Locator="Match(name)" xdt:Transform="InsertIfMissing"/>		
+		</xs:complexType>
+	  </xs:element>
+</xs:schema>

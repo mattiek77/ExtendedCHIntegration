@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<connectionStrings configBuilders="SitecoreConnectionStringsBuilder" xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <add name="DAM.ContentHub" xdt:Transform="RemoveAll" xdt:Locator="Match(name)"/>
+  <add name="DAM.SearchPage" xdt:Transform="RemoveAll" xdt:Locator="Match(name)"/>
+  <add name="DAM.ExternalRedirectKey" xdt:Transform="RemoveAll" xdt:Locator="Match(name)"/>
+  <add name="DAM.ContentHub" connectionString="#{SitecorecontenthubCloudUrl}#" xdt:Transform="Insert" />
+  <add name="DAM.SearchPage" connectionString="#{SitecorecontenthubCloudSearchUrl}#"  xdt:Transform="Insert"  />
+  <add name="DAM.ExternalRedirectKey" connectionString="Sitecore"  xdt:Transform="Insert"  />
+
+
+  <add name="CMP.ContentHub" xdt:Transform="RemoveAll" xdt:Locator="Match(name)"/>
+  <add name="CMP.ServiceBusEntityPathIn" xdt:Transform="RemoveAll" xdt:Locator="Match(name)"/>
+  <add name="CMP.ServiceBusSubscription" xdt:Transform="RemoveAll" xdt:Locator="Match(name)"/>
+  <add name="CMP.ServiceBusEntityPathOut" xdt:Transform="RemoveAll" xdt:Locator="Match(name)"/>
+
+  <add name="CMP.ContentHub" xdt:Transform="Insert" connectionString="#{CMPConnectionString}#" />
+  <add name="CMP.ServiceBusEntityPathIn" xdt:Transform="Insert" connectionString="#{CMPServiceBusIn}#" />
+  <add name="CMP.ServiceBusSubscription" xdt:Transform="Insert" connectionString="default_ingress" />
+  <add name="CMP.ServiceBusEntityPathOut" xdt:Transform="Insert" connectionString="#{CMPServiceBusOut}#" />
+</connectionStrings>
