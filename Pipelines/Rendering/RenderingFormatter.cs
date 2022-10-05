@@ -15,7 +15,7 @@ using Sitecore.Web.UI.HtmlControls;
 using Control = System.Web.UI.Control;
 using Page = Sitecore.Web.UI.HtmlControls.Page;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Rendering
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Rendering
 {
     public class RenderingFormatter : Sitecore.Shell.Applications.ContentEditor.EditorFormatter
     {

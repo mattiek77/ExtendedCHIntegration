@@ -8,7 +8,7 @@ using Sitecore.Data.Items;
 using Sitecore.Data.Validators;
 using Sitecore.SecurityModel;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class SetAllRequiredFields : ImportEntityProcessor
     {

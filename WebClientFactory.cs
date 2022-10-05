@@ -2,7 +2,7 @@
 using Sitecore.DependencyInjection;
 using Stylelabs.M.Sdk.WebClient;
 
-namespace WKSkunkWorks.Foundation.DAM
+namespace ExtendedCHIntegration.Foundation.DAM
 {
     public class WebClientFactory
     {

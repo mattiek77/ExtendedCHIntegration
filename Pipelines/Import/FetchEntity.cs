@@ -6,12 +6,12 @@ using Stylelabs.M.Framework.Essentials.LoadConfigurations;
 using Stylelabs.M.Sdk.Contracts.Base;
 using Stylelabs.M.Sdk.WebClient;
 using System;
-using WKSkunkWorks.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Connector.CMP;
 using Sitecore.Connector.CMP.Pipelines.ImportEntity;
 using Version = System.Version;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class FetchEntity : ImportEntityProcessor
     {

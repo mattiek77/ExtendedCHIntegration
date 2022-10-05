@@ -1,7 +1,7 @@
 ﻿using Sitecore.Data;
 using Sitecore.Data.Items;
 
-namespace WKSkunkWorks.Foundation.DAM.Helpers
+namespace ExtendedCHIntegration.Foundation.DAM.Helpers
 {
     public interface IOneWebCMPSitecoreHelper
     {

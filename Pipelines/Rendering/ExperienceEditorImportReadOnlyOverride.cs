@@ -7,7 +7,7 @@ using Sitecore.DependencyInjection;
 using Sitecore.Pipelines.RenderField;
 using Sitecore.Data.Items;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Rendering
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Rendering
 {
     public class ExperienceEditorImportReadOnlyOverride
     {

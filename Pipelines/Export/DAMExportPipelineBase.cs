@@ -1,6 +1,6 @@
 ﻿using Sitecore.Data;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Export
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Export
 {
     public abstract class DAMExportPipelineBase
     {

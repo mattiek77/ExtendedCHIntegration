@@ -5,7 +5,7 @@ using Sitecore.Data;
 using Sitecore.Data.Items;
 using Sitecore.Diagnostics;
 
-namespace WKSkunkWorks.Foundation.DAM.Helpers
+namespace ExtendedCHIntegration.Foundation.DAM.Helpers
 {
     public class OneWebCMPSitecoreHelper : IOneWebCMPSitecoreHelper
     {

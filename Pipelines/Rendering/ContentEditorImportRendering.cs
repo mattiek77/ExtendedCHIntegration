@@ -1,4 +1,4 @@
-﻿namespace WKSkunkWorks.Foundation.DAM.Pipelines.Rendering
+﻿namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Rendering
 {
     public class ContentEditorImportRendering
     {

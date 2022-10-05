@@ -10,7 +10,7 @@ using Sitecore.Data.Items;
 using Sitecore.Globalization;
 using Sitecore.SecurityModel;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class SetContentAuthor : ImportEntityProcessor
     {

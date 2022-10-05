@@ -6,7 +6,7 @@ using Stylelabs.M.Framework.Essentials.LoadConfigurations;
 using Stylelabs.M.Sdk.Contracts.Base;
 using Stylelabs.M.Sdk.WebClient;
 
-namespace WKSkunkWorks.Foundation.DAM.Helpers
+namespace ExtendedCHIntegration.Foundation.DAM.Helpers
 {
     public class CMPWorkflowHelper : ICMPWorkflowHelper
     {

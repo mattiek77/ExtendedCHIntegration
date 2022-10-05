@@ -1,9 +1,9 @@
-﻿using WKSkunkWorks.Foundation.DAM.Helpers;
+﻿using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Data.Events;
 using Sitecore.Data.Items;
 using Sitecore.SecurityModel;
 using MConstants = Sitecore.Connector.CMP.Constants;
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Export
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Export
 {
     public class UpdateXPItemWithDamID : DAMExportPipelineBase
     {

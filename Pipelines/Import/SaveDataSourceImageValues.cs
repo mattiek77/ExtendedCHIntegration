@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using WKSkunkWorks.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Abstractions;
 using Sitecore.Connector.CMP;
 using Sitecore.Connector.CMP.Pipelines.ImportEntity;
@@ -8,7 +8,7 @@ using Sitecore.Diagnostics;
 using Sitecore.Globalization;
 using Sitecore.SecurityModel;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class SaveDataSourceImageValues : ImportEntityProcessor
     {

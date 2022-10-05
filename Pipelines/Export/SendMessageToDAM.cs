@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using WKSkunkWorks.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Data;
 using Sitecore.Data.Fields;
 using Sitecore.Data.Items;
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Export
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Export
 {
     public class SendMessageToDAM : DAMExportPipelineBase
     {

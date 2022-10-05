@@ -11,7 +11,7 @@ using Sitecore.Publishing.Pipelines.Publish;
 using Stylelabs.M.Framework.Essentials.LoadConfigurations;
 using Stylelabs.M.Sdk.WebClient;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class SetSitecoreIDInCmpItem :ImportEntityProcessor
     {

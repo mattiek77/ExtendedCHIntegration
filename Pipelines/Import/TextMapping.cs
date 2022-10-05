@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using WKSkunkWorks.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Abstractions;
 using Sitecore.Connector.CMP;
 using Sitecore.Connector.CMP.Conversion;
@@ -13,7 +13,7 @@ using Sitecore.Data.Items;
 using Sitecore.Globalization;
 using Sitecore.SecurityModel;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class TextMapping : ImportEntityProcessor
     {

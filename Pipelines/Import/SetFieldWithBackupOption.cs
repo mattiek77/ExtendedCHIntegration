@@ -13,11 +13,11 @@ using Sitecore.Data.Items;
 using Sitecore.Globalization;
 using Sitecore.SecurityModel;
 using Stylelabs.M.Sdk.Contracts.Base;
-using WKSkunkWorks.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Connector.CMP.Conversion;
 
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class SetFieldWithBackupOption : ImportEntityProcessor
     {

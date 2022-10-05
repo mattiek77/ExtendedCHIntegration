@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Threading.Tasks;
 
-namespace WKSkunkWorks.Foundation.DAM.Helpers
+namespace ExtendedCHIntegration.Foundation.DAM.Helpers
 {
     public interface ICMPExporter
     {

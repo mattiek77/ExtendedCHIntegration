@@ -9,7 +9,7 @@ using Stylelabs.M.Sdk.Contracts.Base;
 using Stylelabs.M.Sdk.WebClient;
 using MConstants = Stylelabs.M.Sdk.Constants;
 
-namespace WKSkunkWorks.Foundation.DAM.Helpers
+namespace ExtendedCHIntegration.Foundation.DAM.Helpers
 {
     public class PublicLinkHelper : IPublicLinkHelper
     {

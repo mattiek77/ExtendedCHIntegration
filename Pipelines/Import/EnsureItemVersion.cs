@@ -12,7 +12,7 @@ using Sitecore.SecurityModel;
 using Sitecore.Data.Items;
 using ItemEventHandler = Sitecore.Globalization.ItemEventHandler;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class EnsureItemVersion : ImportEntityProcessor
     {

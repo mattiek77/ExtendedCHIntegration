@@ -1,4 +1,4 @@
-﻿using WKSkunkWorks.Foundation.DAM.Helpers;
+﻿using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Connector.CMP;
 using Sitecore.Abstractions;
 using Sitecore.Connector.CMP.Helpers;
@@ -11,7 +11,7 @@ using Sitecore.SecurityModel;
 using Sitecore.Data.Fields;
 
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class EnsureItem : Sitecore.Connector.CMP.Pipelines.ImportEntity.EnsureItem
     {

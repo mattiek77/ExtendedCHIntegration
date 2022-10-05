@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 using Microsoft.Practices.EnterpriseLibrary.Common.Utility;
-using WKSkunkWorks.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Abstractions;
 using Sitecore.Connector.CMP;
 using Sitecore.Connector.CMP.Conversion;
@@ -14,7 +14,7 @@ using Sitecore.SecurityModel;
 using Sitecore.Data.Items;
 using SaveFieldValues = Sitecore.Connector.CMP.Pipelines.ImportEntity.SaveFieldValues;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Import
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Import
 {
     public class SaveImageFieldValues : ImportEntityProcessor
     {

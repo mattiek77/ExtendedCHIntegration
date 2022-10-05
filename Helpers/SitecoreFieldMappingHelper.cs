@@ -8,7 +8,7 @@ using System.Web;
 using System.Xml;
 using Sitecore;
 
-namespace WKSkunkWorks.Foundation.DAM.Helpers
+namespace ExtendedCHIntegration.Foundation.DAM.Helpers
 {
     public class SitecoreFieldMappingHelper
     {

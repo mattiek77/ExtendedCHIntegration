@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Sitecore.Pipelines;
 using Sitecore.Data.Items;
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Export
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Export
 {
     public class DAMNotificationEventArgs : PipelineArgs
     {

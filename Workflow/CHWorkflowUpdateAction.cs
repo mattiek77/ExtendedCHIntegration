@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using Microsoft.Extensions.DependencyInjection;
-using WKSkunkWorks.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
 using Sitecore.Diagnostics;
 using Sitecore.Data.Items;
 using Sitecore.DependencyInjection;
@@ -11,7 +11,7 @@ using Sitecore.Workflows.Simple;
 using Stylelabs.M.Sdk.WebClient;
 using MConstants = Sitecore.Connector.CMP.Constants;
 
-namespace WKSkunkWorks.Foundation.DAM.Workflow
+namespace ExtendedCHIntegration.Foundation.DAM.Workflow
 {
     public class CHWorkflowUpdateAction
     {

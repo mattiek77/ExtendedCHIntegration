@@ -8,7 +8,7 @@ using Sitecore.Connector.CMP;
 using Sitecore.Shell.Applications.WebEdit.Commands;
 using Stylelabs.M.Sdk.WebClient;
 
-namespace WKSkunkWorks.Foundation.DAM.Helpers
+namespace ExtendedCHIntegration.Foundation.DAM.Helpers
 {
     public class APIVersionHelper
     {

@@ -1,7 +1,7 @@
 ﻿using System.Text.RegularExpressions;
 using Sitecore.Data;
 
-namespace WKSkunkWorks.Foundation.DAM
+namespace ExtendedCHIntegration.Foundation.DAM
 {
     public static class Constants
     {

@@ -4,7 +4,7 @@ using Sitecore.Data.Items;
 using Sitecore.Events;
 using Sitecore.Pipelines;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Export
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Export
 {
     public class ItemSaved
     {

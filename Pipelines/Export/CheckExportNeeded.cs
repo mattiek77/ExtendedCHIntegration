@@ -5,7 +5,7 @@ using Sitecore.Data.Fields;
 using Sitecore.Data.Managers;
 using Sitecore.Data.Validators;
 using MConstants = Sitecore.Connector.CMP.Constants;
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Export
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Export
 {
     public class CheckExportNeeded : DAMExportPipelineBase
     {

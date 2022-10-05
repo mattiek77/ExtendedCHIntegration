@@ -5,10 +5,10 @@ using System.Web;
 using Sitecore.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
-using WKSkunkWorks.Foundation.DAM.Helpers;
-using WKSkunkWorks.Foundation.DAM.Pipelines.Rendering;
+using ExtendedCHIntegration.Foundation.DAM.Helpers;
+using ExtendedCHIntegration.Foundation.DAM.Pipelines.Rendering;
 
-namespace WKSkunkWorks.Foundation.DAM.DI
+namespace ExtendedCHIntegration.Foundation.DAM.DI
 {
     public class Configurator : IServicesConfigurator
     {

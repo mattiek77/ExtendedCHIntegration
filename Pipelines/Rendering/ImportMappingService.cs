@@ -12,7 +12,7 @@ using Sitecore.Data.Managers;
 using Sitecore.Events;
 using Sitecore.Shell.Applications.ContentManager;
 
-namespace WKSkunkWorks.Foundation.DAM.Pipelines.Rendering
+namespace ExtendedCHIntegration.Foundation.DAM.Pipelines.Rendering
 {
     public class ImportMappingService
     {
